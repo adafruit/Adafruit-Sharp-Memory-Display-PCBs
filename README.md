@@ -1,6 +1,6 @@
 # PCB for the Adafruit Sharp Memory display breakout board
 
-<a href="http://www.adafruit.com/products/1393"><img src="assets/image.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/1393"><img src="assets/image.jpg?raw=true" width="500px"></a><br />
 <a href="https://www.adafruit.com/product/4694"><img src="assets/4694.jpg?raw=true" width="500px"></a>
 
 [The 96x96 resolution SHARP Memory LCD is no longer made, but we have a higher-resolution 168x144 display available in the shop](https://www.adafruit.com/product/3502).
